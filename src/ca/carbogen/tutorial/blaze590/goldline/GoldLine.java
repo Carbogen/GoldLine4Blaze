@@ -136,7 +136,7 @@ public class GoldLine
 				break;	// Break out of the for-loop.
 						// The reason we want to break out is so that it turns one block to gold at a time.
 						// The next time this method runs, 'b' will already be gold, hence the if-statement on
-						// line 129 won't let this code be run, and the loop will proceed to the next block.
+						// line 132 won't let this code be run, and the loop will proceed to the next block.
 			}
 		}
 	}
